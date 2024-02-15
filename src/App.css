@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,700;0,900;1,100&display=swap');
+.title{
+    @apply text-3xl font-semibold capitalize text-center my-8;
+}
